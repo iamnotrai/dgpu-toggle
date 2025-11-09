@@ -1,7 +1,7 @@
 # dgpu-toggle
 Disable or Enable dGpu without go to Device Manager
 
-#Installation
+## Installation
 
 Change the 
 
