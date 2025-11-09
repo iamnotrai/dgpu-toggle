@@ -9,4 +9,4 @@ $gpuName = "NVIDIA GeForce RTX 3050 Laptop GPU"
 
 to
 
-$gpuName = "(gpu you are using now)"
+$gpuName = "(gpu you are using)"
